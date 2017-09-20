@@ -1,7 +1,7 @@
 {
-  "name": "FLAD",
+  "name": "sample-app",
   "version": "1.0.0",
-  "description": "FLAD - Framework for Linguistic Application Development",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "",
@@ -14,7 +14,7 @@
     "react",
     "redux"
   ],
-  "author": "Jean-Pierre Sierens",
+  "author": "Dhanushka C",
   "license": "MIT",
   "dependencies": {
     "antd": "^2.12.7",

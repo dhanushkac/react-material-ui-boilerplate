@@ -14,7 +14,7 @@ function AppBarComponent() {
                     <IconButton color="contrast" aria-label="Menu">
                         <MenuIcon />
                     </IconButton>
-                    <Typography type="headline" color="inherit">FLAD - Framework for Linguistic Application Development</Typography>
+                    <Typography type="headline" color="inherit">Sample App</Typography>
                 </Toolbar>
             </AppBar>
         </div>
